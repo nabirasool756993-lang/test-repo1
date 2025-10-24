@@ -1,0 +1,1 @@
+now i am creting dev1 branch with checkout command  creating using with vi text.txt and now i am saving with command:wq  
